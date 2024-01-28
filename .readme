@@ -1,0 +1,15 @@
+to make a full stack app , we divide the folder structure into two parts.
+1-> client
+2->server
+
+In client part, to install react using vite , run "npm create vite@latest client"
+Move to client folder -> initialize node  by "npm i"
+push to git
+create a sub folder pages/components
+    - about
+    - home
+    - profile
+    - sign in
+    - sign out
+Install react router dom for routing
+In app.js , import BrowserRouter, Routes,Routes
